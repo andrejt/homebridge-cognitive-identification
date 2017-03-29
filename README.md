@@ -6,6 +6,7 @@ The plugin will only work with an existing and properly configure Cognitive Serv
 Before you install this plugin, make sure you have properly configured your Microsoft Cognitive Services account, provisioned it with at least a single person group and added some people to it. Also make sure persons in group have enough photos and that group is successfully trained.
 
 **NOTE: please review your Microsoft Cognitive Services subscription as some limitation may be set on free subscriptions and if using paid subscription, be aware of your subscription costs!!!**
+
 # Plugin installation
 
 1. Make sure you have homebridge installed. If not, install it using `npm install -g homebridge`.
